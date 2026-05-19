@@ -1,5 +1,5 @@
 # cloud-autoscaling-project
-````markdown
+
 # ML-Based Cloud Auto-Scaling Simulator Using ONE-MS-I Microservice Traffic Dataset
 
 ## Project Overview
